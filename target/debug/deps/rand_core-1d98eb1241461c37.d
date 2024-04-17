@@ -1,0 +1,12 @@
+/home/pi/projects/recipie_thief/target/debug/deps/rand_core-1d98eb1241461c37.rmeta: /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/rand_core-0.6.4/src/lib.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/rand_core-0.6.4/src/block.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/rand_core-0.6.4/src/error.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/rand_core-0.6.4/src/impls.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/rand_core-0.6.4/src/le.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/rand_core-0.6.4/src/os.rs
+
+/home/pi/projects/recipie_thief/target/debug/deps/librand_core-1d98eb1241461c37.rlib: /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/rand_core-0.6.4/src/lib.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/rand_core-0.6.4/src/block.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/rand_core-0.6.4/src/error.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/rand_core-0.6.4/src/impls.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/rand_core-0.6.4/src/le.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/rand_core-0.6.4/src/os.rs
+
+/home/pi/projects/recipie_thief/target/debug/deps/rand_core-1d98eb1241461c37.d: /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/rand_core-0.6.4/src/lib.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/rand_core-0.6.4/src/block.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/rand_core-0.6.4/src/error.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/rand_core-0.6.4/src/impls.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/rand_core-0.6.4/src/le.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/rand_core-0.6.4/src/os.rs
+
+/home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/rand_core-0.6.4/src/lib.rs:
+/home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/rand_core-0.6.4/src/block.rs:
+/home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/rand_core-0.6.4/src/error.rs:
+/home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/rand_core-0.6.4/src/impls.rs:
+/home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/rand_core-0.6.4/src/le.rs:
+/home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/rand_core-0.6.4/src/os.rs:

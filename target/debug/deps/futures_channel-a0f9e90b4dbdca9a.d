@@ -1,0 +1,11 @@
+/home/pi/projects/recipie_thief/target/debug/deps/futures_channel-a0f9e90b4dbdca9a.rmeta: /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.30/src/lib.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.30/src/lock.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.30/src/mpsc/mod.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.30/src/mpsc/queue.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.30/src/oneshot.rs
+
+/home/pi/projects/recipie_thief/target/debug/deps/libfutures_channel-a0f9e90b4dbdca9a.rlib: /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.30/src/lib.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.30/src/lock.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.30/src/mpsc/mod.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.30/src/mpsc/queue.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.30/src/oneshot.rs
+
+/home/pi/projects/recipie_thief/target/debug/deps/futures_channel-a0f9e90b4dbdca9a.d: /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.30/src/lib.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.30/src/lock.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.30/src/mpsc/mod.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.30/src/mpsc/queue.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.30/src/oneshot.rs
+
+/home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.30/src/lib.rs:
+/home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.30/src/lock.rs:
+/home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.30/src/mpsc/mod.rs:
+/home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.30/src/mpsc/queue.rs:
+/home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.30/src/oneshot.rs:

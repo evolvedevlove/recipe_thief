@@ -1,0 +1,2 @@
+cargo:rustc-cfg=rustc_has_pr45225
+cargo:rerun-if-changed=/home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/cssparser-0.27.2/src/tokenizer.rs

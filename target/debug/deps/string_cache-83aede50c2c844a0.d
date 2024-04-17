@@ -1,0 +1,11 @@
+/home/pi/projects/recipie_thief/target/debug/deps/string_cache-83aede50c2c844a0.rmeta: /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/string_cache-0.8.7/src/lib.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/string_cache-0.8.7/src/atom.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/string_cache-0.8.7/src/dynamic_set.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/string_cache-0.8.7/src/static_sets.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/string_cache-0.8.7/src/trivial_impls.rs
+
+/home/pi/projects/recipie_thief/target/debug/deps/libstring_cache-83aede50c2c844a0.rlib: /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/string_cache-0.8.7/src/lib.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/string_cache-0.8.7/src/atom.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/string_cache-0.8.7/src/dynamic_set.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/string_cache-0.8.7/src/static_sets.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/string_cache-0.8.7/src/trivial_impls.rs
+
+/home/pi/projects/recipie_thief/target/debug/deps/string_cache-83aede50c2c844a0.d: /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/string_cache-0.8.7/src/lib.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/string_cache-0.8.7/src/atom.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/string_cache-0.8.7/src/dynamic_set.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/string_cache-0.8.7/src/static_sets.rs /home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/string_cache-0.8.7/src/trivial_impls.rs
+
+/home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/string_cache-0.8.7/src/lib.rs:
+/home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/string_cache-0.8.7/src/atom.rs:
+/home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/string_cache-0.8.7/src/dynamic_set.rs:
+/home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/string_cache-0.8.7/src/static_sets.rs:
+/home/pi/.cargo/registry/src/index.crates.io-1cd66030c949c28d/string_cache-0.8.7/src/trivial_impls.rs:
